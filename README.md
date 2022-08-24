@@ -10,4 +10,5 @@
 
 ![Homepage](https://user-images.githubusercontent.com/78317220/186310287-34793444-a43c-46aa-a404-37d213e9fb50.png) </br>
 
+![coding-freak](https://user-images.githubusercontent.com/78317220/186334298-b64f0ad2-3c2c-45e7-b489-7754eb1562a5.gif)
 
