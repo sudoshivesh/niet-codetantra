@@ -10,4 +10,4 @@
 
 ![Homepage](https://user-images.githubusercontent.com/78317220/186310287-34793444-a43c-46aa-a404-37d213e9fb50.png) </br>
 
-![Capture](https://user-images.githubusercontent.com/78317220/186333494-3df21011-0564-4d9f-9c52-024c0b179bf5.png) </br>
+
