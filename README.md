@@ -1,4 +1,4 @@
-<h1 aligh="center">NIET CODETANTRA SOLUTION</h1>
+<h1 align="center">NIET CODETANTRA SOLUTION</h1>
 
 ![logo](https://user-images.githubusercontent.com/78317220/186310268-b9b1d114-0ea7-48f7-a49b-a764f1dbafd9.png)</br>
 <h3 aligh="center">Wecome to this Repository.</h3></br>
