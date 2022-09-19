@@ -35,3 +35,4 @@ def consecutiveString(S):
 	return ans+stack
 
 print(consecutiveString(S))
+#This code is contributed by Shivesh
