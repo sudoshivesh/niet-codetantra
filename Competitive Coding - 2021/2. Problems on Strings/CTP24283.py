@@ -30,4 +30,4 @@ def isSuper(s):
 	
 
 print("true" if isSuper(s) else "false");
-#This code is contributed by Shivesh Shivam
+#This code is contributed by Shivesh
