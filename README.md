@@ -15,7 +15,7 @@
 |Semester 3| [OOT using Java Lab](https://github.com/sudoshivesh/niet-codetantra/tree/sudo/Object%20Oriented%20Techniques%20using%20Java%20Lab) |
 |Semester 4| [Operating System Lab using C](https://github.com/sudoshivesh/niet-codetantra/tree/sudo/Operating%20System%20Lab) |
 |Semester 5| [Competitive Coding](https://github.com/sudoshivesh/niet-codetantra/tree/sudo/Competitive%20Coding%20-%202021) |
-|Semester 6| [Design and Analysis of Algorithm Lab]()|
+|Semester 5| [Design and Analysis of Algorithm Lab](https://github.com/sudoshivesh/niet-codetantra/tree/sudo/Design%20and%20Analysis%20of%20Algorithm%20Lab)|
 
 ![Homepage](https://user-images.githubusercontent.com/78317220/186310287-34793444-a43c-46aa-a404-37d213e9fb50.png) </br>
 
