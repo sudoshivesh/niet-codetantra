@@ -58,7 +58,7 @@ void main(){
 	for(i=0;i<n;i++)
 	{
 		
-		printf("%d	",a[i]);
+		printf("%d	",a[i]); //use tab instead of space here
 		
 	}
 }
