@@ -1,85 +1,64 @@
-#include <stdio.h>
-
-void quicksort (int [], int, int);
-
-int main() { 
-
-int list[50]; 
-
-int size, i;
-
-printf("Enter Number of elements : "); 
-
-scanf("%d", &size);
-
-printf("Enter %d Elements : ",size);
-
-for (i = 0; i < size; i++) {
-
-scanf("%d", &list[i]);
-
+#include<stdio.h>
+#include<conio.h>
+void merge(int arr[],int l,int m,int r){
+	int i,j,k;
+	int n1=m-l+1;
+	int n2=r-m;
+	int L[n1],R[n2];
+	for(i=0;i<n1;i++)
+	L[i]=arr[l+i];
+	for(j=0;j<n2;j++)
+	R[j]=arr[m+1+j];
+	i=0;
+	j=0;
+	k=l;
+	while(i<n1 && j<n2){
+		if(L[i]<R[j]){
+			arr[k]=L[i];
+			i++;
+		}
+		else{
+			arr[k]=R[j];
+			j++;
+		}
+		k++;
+	}
+	while(i<n1){
+		arr[k]=L[i];
+		i++;
+		k++;
+	}
+	while(j<n2){
+		arr[k]=R[j];
+		j++;
+		k++;
+	}
 }
-
-quicksort(list, 0, size - 1);
-
-printf("Sorted Numbers are :");
-
-for (i = 0; i < size; i++) {
-
-printf(" %d", list[i]);
-
+void merge_sort(int arr[],int l,int r)
+{
+	if(l<r){
+		int m=(l+r)/2;
+		merge_sort(arr,l,m);
+		merge_sort(arr,m+1,r);
+		merge(arr,l,m,r);
+	}
 }
-
-printf(" \n");
-
-return 0; }
-
-void quicksort(int list[], int low, int high) {
-
-int pivot, i, j, temp;
-
-if (low < high) {
-
-pivot = low;
-
-i = low;
-
-j = high;
-
-while (i < j) {
-
-while (list[i] <= list[pivot] && i <= high) {
-
-i++;
-
-}
-
-while (list[j] > list[pivot] && j >= low) {
-
-j--;
-
-}
-
-if (i < j) {
-
-temp = list[i];
-
-list[i] = list[j];
-
-list[j] = temp;
-
-}
-
-}
-
-temp = list[j];
-
-list[j] = list[pivot];
-
-list[pivot] = temp;
-
-quicksort(list, low,j - 1);
-
-quicksort(list, j + 1, high);
-}
+void main(){
+	int n,i,a[100];
+	printf(" Enter How many Numbers : ");
+	scanf("%d",&n);
+	printf(" Enter %d Numbers :",n);
+	for(i=0;i<n;i++){
+		
+		scanf("%d",&a[i]);
+		
+	}
+	merge_sort(a,0,n-1);
+	printf(" Sorted Numbers are : ");
+	for(i=0;i<n;i++)
+	{
+		
+		printf("%d	",a[i]);
+		
+	}
 }
