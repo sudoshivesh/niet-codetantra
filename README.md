@@ -19,12 +19,3 @@
 
 ![Homepage](https://user-images.githubusercontent.com/78317220/186310287-34793444-a43c-46aa-a404-37d213e9fb50.png) </br>
 
-<h3 align="left">The assigned lab are in the following order.</h3><br>
-<ol>
-<li>Problem Solving using Python Lab (Semester 2)</li>
-<li>data structure lab using python (Semester 3)</li>
-<li>Object Oriented Technique using Java Lab (Semester 3)</li>
-<li>Operating System Lab (Semester 4)</li>
-<li>Competitive Coding - 2021 (Semester 5)</li>
-</ol>
-
