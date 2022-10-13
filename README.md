@@ -3,8 +3,8 @@
 ![logo](https://user-images.githubusercontent.com/78317220/186310268-b9b1d114-0ea7-48f7-a49b-a764f1dbafd9.png)</br>
 <h3 aligh="center">Wecome to this Repository.</h3></br>
 <ul>
-  <li>Here you will find the solution of every problem assigned by NIET on Codetantra.</li></br>
-<li>It contains solution of Data Structure using Python Lab, Object Oriented Technique using Java Lab and Operating System Lab. </li></br>
+  <li>Here you will find the solution of every problem assigned by NIET on Codetantra Platform.</li></br>
+<li>It contains solution of Data Structure using Python Lab, Object Oriented Technique using Java Lab, Competetive Coding-2021, Design & Analysis of Algorithm and Operating System Lab. </li></br>
 <li>For much such solution or to talk on any tech topic connect with me   :  https://linktr.ee/sudoshivesh </li></br>
 </ul>
 
