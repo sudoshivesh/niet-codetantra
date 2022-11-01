@@ -58,3 +58,4 @@ int main(int argc,char *argv[]){
     cout << lowestWeatherQualityDays(nDays,nColdDays)<<"is";
     return 0;
 }
+}
