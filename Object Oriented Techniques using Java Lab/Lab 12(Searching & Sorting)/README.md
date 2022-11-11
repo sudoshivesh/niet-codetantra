@@ -6,3 +6,12 @@ As it was in our Lab 7 of OOTS**
 | :----| :-------|
 |1|LinearSearch.java|
 |2|BinarySearch.java|
+
+
+|Sr. No|Sorting|
+| :----| :-------|
+|1|BubbleSort.java|
+|2|InsertionSort.java|
+|3|SelectionSortingLargestElement.java|
+|4|SelectionSortingSmallestElement.java|
+|5|MyMergeSort.java|
