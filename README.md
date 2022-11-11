@@ -17,6 +17,7 @@
 |Semester 5| [Competitive Coding](https://github.com/sudoshivesh/niet-codetantra/tree/sudo/Competitive%20Coding%20-%202021) |
 |Semester 5| [Design and Analysis of Algorithm Lab](https://github.com/sudoshivesh/niet-codetantra/tree/sudo/Design%20and%20Analysis%20of%20Algorithm%20Lab)|
 |Semester 5| [Competitive Coding test](https://github.com/sudoshivesh/niet-codetantra/tree/sudo/Competitive%20Coding%20Test)|
+|Semester 5| [Java Course - Lesson Plan - September - 2019](https://github.com/sudoshivesh/niet-codetantra/tree/sudo/Java%20Course%20-%20Lesson%20Plan%20-%20September%20-%202019)|
 
 ![Homepage](https://user-images.githubusercontent.com/78317220/186310287-34793444-a43c-46aa-a404-37d213e9fb50.png) </br>
 
