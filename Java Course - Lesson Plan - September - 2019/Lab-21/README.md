@@ -7,3 +7,5 @@
 |5|ElementCheck2.java|
 |6|ElementCheck1.java|
 |7|ElementCheck3.java|
+|8|ElementCheck4.java|
+
