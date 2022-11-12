@@ -12,3 +12,4 @@
 |10|SwapFirstAndLast.java|
 |11|SequenceCheck.java|
 |12|SequenceCheck1.java|
+|13|FindMiddle.java|
