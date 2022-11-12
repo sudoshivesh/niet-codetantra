@@ -13,3 +13,7 @@
 |11|SequenceCheck.java|
 |12|SequenceCheck1.java|
 |13|FindMiddle.java|
+|14|SequenceCount.java|
+|15|InitializeArray.java|
+|16|SequenceCount2.java|
+
