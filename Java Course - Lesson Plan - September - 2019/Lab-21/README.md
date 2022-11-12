@@ -9,4 +9,6 @@
 |7|ElementCheck3.java|
 |8|ElementCheck4.java|
 |9|SumOfElements.java|
-
+|10|SwapFirstAndLast.java|
+|11|SequenceCheck.java|
+|12|SequenceCheck1.java|
