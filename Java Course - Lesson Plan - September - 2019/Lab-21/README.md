@@ -17,4 +17,16 @@
 |15|InitializeArray.java|
 |16|SequenceCount2.java|
 |17|SumOfArrays.java|
+|18|SumOfArrays.java|
+|19|SumOfArrays.java|
+|20|SumOfArrays.java|
+|21|SumOfArrays.java|
+|22|SumOfArrays.java|
+|23|SumOfArrays.java|
+|24|SumOfArrays.java|
+|25|SumOfArrays.java|
+|26|SumOfArrays.java|
+|27|SumOfArrays.java|
+|28|SumOfArrays.java|
+
 
