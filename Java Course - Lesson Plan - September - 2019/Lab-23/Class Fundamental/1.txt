@@ -1,0 +1,6 @@
+        1. A class cannot contain another class.
+        2. A class need not contain the keyword class in its declaration.
+        3. int and Integer are predefined classes in Java.
+        4. In the statement:
+[Right] 5. Integer age = new Integer(25);
+        age is an instance of class Integer.
