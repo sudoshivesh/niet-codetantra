@@ -1,0 +1,3 @@
+[Right] 1.A programming paradigm informs how problems are analyzed and solved in a programming language. 
+        2.Procedural programming lays more emphasis on data and procedures.
+[Right] 3.Large systems developed using procedural programming language can be difficult to maintain.
