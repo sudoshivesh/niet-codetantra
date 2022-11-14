@@ -1,0 +1,3 @@
+[right] 1.Abstraction is representing only essential things without knowing the background details.
+        2.A class contains only member functions to secure the data.
+[Right] 3.Encapsulation is combining both data and functions.
