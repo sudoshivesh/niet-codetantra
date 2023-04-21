@@ -6,7 +6,7 @@
   <li>Here you will find the solution of every problem assigned by NIET on Codetantra Platform.</li></br>
 <li>It contains solution of Data Structure using Python Lab, Object Oriented Technique using Java Lab, Competetive Coding-2021, Design & Analysis of Algorithm and Operating System Lab. </li></br>
 <li> Give a star if you really found this repository helpful.</li><br>
-<li>For much such solution or to talk on any tech topic connect with me   :  <a href= "https://linktr.ee/sudoshivesh" Shivesh</a> </li></br>
+<li>Connect with me : <a href="https://www.linkedin.com/in/sudoshivesh">Shivesh</a></li>
 </ul>
 
 | Semester | Name of the Lab |
